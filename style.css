@@ -1,0 +1,33 @@
+.blue-back {
+    background-color: #000435;
+}
+
+
+@media only screen and (max-width: 400px) {
+    .card {
+        width: 90%;
+        height: 90%;
+    }
+
+
+}
+    
+
+#disclaimer {
+    body {
+        margin: auto;
+        width: 640px; 
+        padding: 50px;
+        font-family: 'Lexend Deca', sans-serif; 
+        color: #2E475D;    
+      }
+
+}
+
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: #333333;
+    font-style: normal;
+  }
